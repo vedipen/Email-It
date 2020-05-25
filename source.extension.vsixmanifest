@@ -9,7 +9,6 @@
     <GettingStartedGuide>https://github.com/vedipen/Email-It</GettingStartedGuide>
     <Icon>Resources\Email.ico</Icon>
     <PreviewImage>Resources\DocumentCodeSpanCommand.png</PreviewImage>
-    <Preview>true</Preview>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,)" />
