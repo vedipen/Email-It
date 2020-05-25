@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="EmailThis.230571e1-b9a4-4103-8e72-18a7fec8da37" Version="1.0" Language="en-US" Publisher="Dipen Ved" />
-    <DisplayName>Email Me That!</DisplayName>
-    <Description>Now email your code snippets inside of Visual Studio directly. Making lives easy.</Description>
+    <Identity Id="Emailit.230571e1-b9a4-4103-8e72-18a7fec8da37" Version="1.0" Language="en-US" Publisher="Dipen Ved" />
+    <DisplayName>Email It!</DisplayName>
+    <Description xml:space="preserve">Now email your code snippets inside of Visual Studio IDE directly. Making lives easy.
+1. Make a selection in editor -&gt; right click -&gt; </Description>
+    <MoreInfo>https://github.com/vedipen/Email-It</MoreInfo>
+    <GettingStartedGuide>https://github.com/vedipen/Email-It</GettingStartedGuide>
+    <Icon>Resources\Email.ico</Icon>
+    <PreviewImage>Resources\DocumentCodeSpanCommand.png</PreviewImage>
+    <Preview>true</Preview>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,)" />
