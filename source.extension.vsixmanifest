@@ -3,8 +3,7 @@
   <Metadata>
     <Identity Id="Emailit.230571e1-b9a4-4103-8e72-18a7fec8da37" Version="1.0" Language="en-US" Publisher="Dipen Ved" />
     <DisplayName>Email It!</DisplayName>
-    <Description xml:space="preserve">Now email your code snippets inside of Visual Studio IDE directly. Making lives easy.
-1. Make a selection in editor -&gt; right click -&gt; </Description>
+    <Description xml:space="preserve">Now email your code snippets inside of Visual Studio IDE directly. Making lives easy.</Description>
     <MoreInfo>https://github.com/vedipen/Email-It</MoreInfo>
     <GettingStartedGuide>https://github.com/vedipen/Email-It</GettingStartedGuide>
     <Icon>Resources\Email.ico</Icon>
