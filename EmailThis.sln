@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailThis", "EmailThis.csproj", "{985BDDEA-5A67-42C0-811E-13108684647D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985BDDEA-5A67-42C0-811E-13108684647D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985BDDEA-5A67-42C0-811E-13108684647D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985BDDEA-5A67-42C0-811E-13108684647D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985BDDEA-5A67-42C0-811E-13108684647D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AAAEA5-6AB9-4356-8E24-C31037F23E21}
+	EndGlobalSection
+EndGlobal
